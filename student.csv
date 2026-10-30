@@ -1,0 +1,501 @@
+Student_ID,Attendance_Percent,Study_Hours_Per_Day,Previous_Marks,Assignments_Completed_Percent,Absences,Final_Marks,Performance
+STU001,45,4.1,65,91,6,45,Needs Support
+STU002,87,5.3,44,25,0,57,Moderate
+STU003,79,3.0,42,52,1,43,Needs Support
+STU004,66,1.9,49,57,2,38,Needs Support
+STU005,66,1.8,70,84,4,53,Moderate
+STU006,92,4.6,43,30,4,43,Needs Support
+STU007,45,5.0,94,55,11,64,Moderate
+STU008,82,1.1,61,32,6,31,Needs Support
+STU009,52,0.9,90,83,10,41,Needs Support
+STU010,45,3.8,76,71,13,61,Moderate
+STU011,72,1.3,50,60,4,48,Needs Support
+STU012,99,5.0,42,51,1,60,Moderate
+STU013,84,2.2,81,32,5,45,Needs Support
+STU014,86,1.3,50,94,2,44,Needs Support
+STU015,83,5.6,43,72,5,59,Moderate
+STU016,87,1.4,95,45,4,55,Moderate
+STU017,71,2.1,61,53,5,44,Needs Support
+STU018,47,1.3,28,78,8,28,Needs Support
+STU019,91,1.1,62,78,0,50,Moderate
+STU020,67,0.6,60,57,7,27,Needs Support
+STU021,70,0.8,90,44,7,42,Needs Support
+STU022,62,1.5,79,73,6,53,Moderate
+STU023,51,0.8,39,73,10,19,Needs Support
+STU024,96,3.8,36,68,2,52,Moderate
+STU025,87,4.2,70,25,4,51,Moderate
+STU026,79,2.7,28,58,7,40,Needs Support
+STU027,64,2.2,49,69,10,37,Needs Support
+STU028,90,3.3,35,96,0,64,Moderate
+STU029,73,5.3,26,62,9,50,Moderate
+STU030,67,5.2,94,47,6,56,Moderate
+STU031,67,0.7,31,65,9,34,Needs Support
+STU032,53,1.5,25,34,10,18,Needs Support
+STU033,45,1.8,95,27,10,38,Needs Support
+STU034,73,1.9,39,74,2,44,Needs Support
+STU035,94,3.6,87,99,1,67,Moderate
+STU036,43,2.8,27,88,8,40,Needs Support
+STU037,92,0.8,36,67,4,34,Needs Support
+STU038,90,2.6,33,23,5,35,Needs Support
+STU039,56,3.4,78,100,7,52,Moderate
+STU040,78,1.1,72,56,5,42,Needs Support
+STU041,50,5.1,61,43,9,56,Moderate
+STU042,86,0.8,43,92,2,48,Needs Support
+STU043,82,5.6,31,80,5,67,Moderate
+STU044,61,1.0,68,80,8,57,Moderate
+STU045,44,5.1,42,42,15,32,Needs Support
+STU046,99,5.5,69,100,0,75,High
+STU047,67,5.9,77,56,9,54,Moderate
+STU048,94,4.9,89,63,1,67,Moderate
+STU049,81,4.8,62,80,5,57,Moderate
+STU050,87,4.0,25,73,2,42,Needs Support
+STU051,86,4.8,46,33,3,46,Needs Support
+STU052,51,1.2,89,44,10,40,Needs Support
+STU053,62,3.4,65,49,6,40,Needs Support
+STU054,68,3.3,72,96,8,61,Moderate
+STU055,70,5.2,59,77,7,52,Moderate
+STU056,42,3.0,37,49,13,49,Needs Support
+STU057,73,2.6,93,79,8,55,Moderate
+STU058,49,4.0,83,79,13,53,Moderate
+STU059,85,2.0,100,51,2,51,Moderate
+STU060,81,1.3,90,52,5,63,Moderate
+STU061,96,3.1,47,92,0,65,Moderate
+STU062,85,2.8,44,65,3,50,Moderate
+STU063,62,1.8,43,32,6,25,Needs Support
+STU064,99,2.5,94,78,3,67,Moderate
+STU065,65,2.5,67,67,8,39,Needs Support
+STU066,59,2.3,59,61,8,52,Moderate
+STU067,95,2.6,98,78,3,72,Moderate
+STU068,62,4.3,70,93,3,60,Moderate
+STU069,44,2.1,94,46,7,30,Needs Support
+STU070,68,5.7,99,53,8,61,Moderate
+STU071,88,5.5,31,35,3,57,Moderate
+STU072,51,3.1,52,72,10,50,Moderate
+STU073,68,2.3,80,52,4,58,Moderate
+STU074,47,3.4,86,47,11,37,Needs Support
+STU075,81,5.2,36,76,8,55,Moderate
+STU076,69,4.1,49,53,8,54,Moderate
+STU077,60,4.9,66,57,8,43,Needs Support
+STU078,53,3.4,85,55,9,51,Moderate
+STU079,74,4.0,33,40,4,46,Needs Support
+STU080,80,2.1,70,30,0,47,Needs Support
+STU081,97,4.5,47,87,1,50,Moderate
+STU082,66,1.6,41,27,8,29,Needs Support
+STU083,49,4.3,64,46,7,46,Needs Support
+STU084,90,5.2,56,74,1,63,Moderate
+STU085,78,1.2,73,30,2,41,Needs Support
+STU086,82,3.9,49,73,2,52,Moderate
+STU087,45,1.0,87,79,11,42,Needs Support
+STU088,59,4.5,30,73,4,49,Needs Support
+STU089,86,1.0,90,44,4,49,Needs Support
+STU090,90,5.6,27,21,4,47,Needs Support
+STU091,66,1.3,80,91,6,50,Moderate
+STU092,89,5.8,51,46,0,50,Moderate
+STU093,91,4.9,54,85,0,68,Moderate
+STU094,63,3.8,26,36,10,35,Needs Support
+STU095,94,4.8,78,33,0,66,Moderate
+STU096,57,4.9,37,83,8,54,Moderate
+STU097,54,5.7,75,96,7,50,Moderate
+STU098,81,1.9,80,89,5,43,Needs Support
+STU099,78,3.7,89,80,3,67,Moderate
+STU100,48,1.0,78,39,11,35,Needs Support
+STU101,90,3.9,47,93,3,59,Moderate
+STU102,52,1.4,81,74,13,39,Needs Support
+STU103,89,3.6,87,33,2,66,Moderate
+STU104,40,3.6,49,30,13,40,Needs Support
+STU105,88,3.1,34,90,0,55,Moderate
+STU106,88,3.4,92,42,5,60,Moderate
+STU107,87,4.7,36,82,1,43,Needs Support
+STU108,80,4.9,70,31,3,64,Moderate
+STU109,68,3.2,42,42,6,49,Needs Support
+STU110,83,3.8,34,42,0,52,Moderate
+STU111,56,5.6,84,42,9,53,Moderate
+STU112,87,1.2,35,74,5,44,Needs Support
+STU113,73,1.1,75,94,6,55,Moderate
+STU114,67,1.0,77,93,3,60,Moderate
+STU115,70,4.1,29,80,6,40,Needs Support
+STU116,74,2.8,38,36,7,37,Needs Support
+STU117,42,4.8,85,97,8,65,Moderate
+STU118,48,4.2,63,63,8,49,Needs Support
+STU119,54,2.3,34,64,11,25,Needs Support
+STU120,46,5.4,100,76,11,66,Moderate
+STU121,66,4.7,45,82,8,55,Moderate
+STU122,80,2.0,25,97,8,40,Needs Support
+STU123,79,2.5,95,67,5,61,Moderate
+STU124,68,2.2,26,69,8,33,Needs Support
+STU125,92,1.4,67,80,7,60,Moderate
+STU126,74,1.3,100,40,5,46,Needs Support
+STU127,44,5.6,68,44,10,47,Needs Support
+STU128,86,2.9,69,70,4,56,Moderate
+STU129,75,2.6,54,25,6,48,Needs Support
+STU130,78,4.5,34,45,3,38,Needs Support
+STU131,74,3.5,68,78,3,48,Needs Support
+STU132,73,5.6,93,99,10,57,Moderate
+STU133,45,4.8,31,62,12,39,Needs Support
+STU134,74,3.1,91,52,4,51,Moderate
+STU135,88,2.6,56,55,4,47,Needs Support
+STU136,58,5.9,65,75,8,64,Moderate
+STU137,76,4.4,37,64,4,46,Needs Support
+STU138,41,5.7,72,21,13,49,Needs Support
+STU139,61,1.2,38,63,5,32,Needs Support
+STU140,66,5.2,45,52,8,54,Moderate
+STU141,99,4.0,79,76,4,70,Moderate
+STU142,53,1.2,28,90,10,25,Needs Support
+STU143,56,3.7,58,97,8,49,Needs Support
+STU144,64,4.3,70,69,6,63,Moderate
+STU145,100,0.6,35,49,0,43,Needs Support
+STU146,92,3.0,47,55,1,42,Needs Support
+STU147,42,5.0,51,34,11,46,Needs Support
+STU148,54,2.1,75,95,11,40,Needs Support
+STU149,90,3.0,99,88,0,79,High
+STU150,43,2.9,88,89,13,56,Moderate
+STU151,92,2.2,39,46,1,47,Needs Support
+STU152,57,5.6,26,46,9,44,Needs Support
+STU153,95,4.8,28,89,0,57,Moderate
+STU154,57,1.1,70,64,11,43,Needs Support
+STU155,66,6.0,36,77,9,50,Moderate
+STU156,80,5.3,42,59,6,56,Moderate
+STU157,47,2.1,89,55,8,52,Moderate
+STU158,73,5.1,91,71,7,63,Moderate
+STU159,70,1.1,88,85,7,47,Needs Support
+STU160,87,6.0,44,47,0,53,Moderate
+STU161,100,4.2,72,85,0,62,Moderate
+STU162,80,4.1,71,39,5,44,Needs Support
+STU163,64,1.0,39,52,8,36,Needs Support
+STU164,64,5.4,67,93,8,73,Moderate
+STU165,65,0.7,64,97,8,52,Moderate
+STU166,89,1.8,55,94,5,40,Needs Support
+STU167,59,1.3,82,45,11,46,Needs Support
+STU168,50,4.8,76,88,4,69,Moderate
+STU169,60,1.6,65,95,7,42,Needs Support
+STU170,41,5.5,80,99,11,60,Moderate
+STU171,46,4.1,82,21,7,35,Needs Support
+STU172,45,0.7,68,80,11,37,Needs Support
+STU173,87,0.5,45,100,5,36,Needs Support
+STU174,84,0.8,82,81,1,55,Moderate
+STU175,82,3.8,79,38,4,48,Needs Support
+STU176,68,4.9,99,81,5,73,Moderate
+STU177,83,1.8,36,28,2,45,Needs Support
+STU178,49,5.2,56,58,13,42,Needs Support
+STU179,94,0.8,95,70,0,51,Moderate
+STU180,70,4.9,64,56,7,42,Needs Support
+STU181,97,5.6,96,76,0,78,High
+STU182,49,4.7,25,39,14,30,Needs Support
+STU183,70,4.3,27,69,7,34,Needs Support
+STU184,82,5.1,85,72,3,72,Moderate
+STU185,70,0.7,52,71,7,34,Needs Support
+STU186,67,1.6,64,43,4,35,Needs Support
+STU187,50,1.2,57,44,12,27,Needs Support
+STU188,63,3.3,56,40,7,51,Moderate
+STU189,54,4.6,96,57,9,63,Moderate
+STU190,58,4.0,32,67,7,41,Needs Support
+STU191,81,5.2,83,49,3,70,Moderate
+STU192,78,1.4,92,53,6,44,Needs Support
+STU193,77,4.5,74,43,5,59,Moderate
+STU194,62,1.6,55,37,9,36,Needs Support
+STU195,98,2.0,37,73,0,45,Needs Support
+STU196,45,4.4,76,86,12,56,Moderate
+STU197,60,5.9,60,43,7,50,Moderate
+STU198,47,3.9,36,89,15,42,Needs Support
+STU199,60,0.8,52,66,5,40,Needs Support
+STU200,98,3.9,98,33,3,48,Needs Support
+STU201,62,0.7,45,49,10,38,Needs Support
+STU202,95,5.4,38,20,0,35,Needs Support
+STU203,70,4.4,76,23,10,48,Needs Support
+STU204,82,1.5,40,47,6,44,Needs Support
+STU205,67,1.0,94,56,9,45,Needs Support
+STU206,56,1.5,90,84,9,39,Needs Support
+STU207,86,5.9,99,30,2,66,Moderate
+STU208,99,3.0,94,87,0,77,High
+STU209,56,4.8,43,38,10,30,Needs Support
+STU210,87,4.0,41,31,5,55,Moderate
+STU211,55,3.6,51,76,9,45,Needs Support
+STU212,83,1.3,60,82,2,41,Needs Support
+STU213,88,5.7,91,68,4,70,Moderate
+STU214,67,2.2,80,29,8,39,Needs Support
+STU215,84,3.7,73,29,5,61,Moderate
+STU216,56,4.3,91,51,10,61,Moderate
+STU217,44,4.1,74,56,11,36,Needs Support
+STU218,45,5.7,53,100,9,52,Moderate
+STU219,67,1.3,56,43,5,32,Needs Support
+STU220,95,3.3,64,35,0,65,Moderate
+STU221,47,2.7,31,96,11,26,Needs Support
+STU222,67,3.1,81,32,6,61,Moderate
+STU223,82,1.2,74,22,3,45,Needs Support
+STU224,52,1.2,80,54,4,35,Needs Support
+STU225,84,2.0,65,52,1,46,Needs Support
+STU226,58,2.2,84,70,11,42,Needs Support
+STU227,89,2.9,97,91,1,60,Moderate
+STU228,75,3.9,68,95,6,60,Moderate
+STU229,73,4.0,58,43,3,44,Needs Support
+STU230,50,2.8,32,99,13,21,Needs Support
+STU231,68,2.7,84,71,6,52,Moderate
+STU232,92,1.7,93,25,2,43,Needs Support
+STU233,41,3.7,78,96,16,44,Needs Support
+STU234,86,2.2,90,31,6,48,Needs Support
+STU235,70,0.7,90,67,5,43,Needs Support
+STU236,83,2.8,85,84,2,76,High
+STU237,80,3.1,63,40,3,51,Moderate
+STU238,66,1.7,32,41,8,33,Needs Support
+STU239,58,3.6,25,58,8,25,Needs Support
+STU240,78,3.6,40,91,4,47,Needs Support
+STU241,48,4.4,57,38,13,43,Needs Support
+STU242,75,4.1,81,73,5,55,Moderate
+STU243,45,4.1,59,56,16,47,Needs Support
+STU244,79,2.2,26,29,4,27,Needs Support
+STU245,78,4.8,40,77,8,50,Moderate
+STU246,45,3.5,99,87,12,52,Moderate
+STU247,86,2.9,100,66,5,65,Moderate
+STU248,65,3.9,53,34,6,41,Needs Support
+STU249,88,2.5,86,32,1,55,Moderate
+STU250,42,3.3,79,54,13,43,Needs Support
+STU251,50,4.6,95,61,12,52,Moderate
+STU252,70,5.4,92,64,6,71,Moderate
+STU253,51,5.6,72,39,7,57,Moderate
+STU254,60,3.3,54,60,5,45,Needs Support
+STU255,80,3.4,72,43,1,53,Moderate
+STU256,48,4.9,49,75,7,54,Moderate
+STU257,81,2.2,51,84,4,47,Needs Support
+STU258,46,5.1,71,72,13,50,Moderate
+STU259,50,3.2,68,20,10,41,Needs Support
+STU260,75,1.1,69,100,0,63,Moderate
+STU261,88,0.9,54,21,2,31,Needs Support
+STU262,50,5.1,56,100,10,59,Moderate
+STU263,58,0.8,25,22,13,6,Needs Support
+STU264,96,2.0,70,61,0,57,Moderate
+STU265,100,2.3,68,28,0,64,Moderate
+STU266,75,1.5,96,27,8,52,Moderate
+STU267,67,2.2,63,75,7,48,Needs Support
+STU268,61,4.6,60,78,9,49,Needs Support
+STU269,77,0.6,30,29,5,29,Needs Support
+STU270,76,5.0,39,99,5,55,Moderate
+STU271,57,5.2,50,45,10,42,Needs Support
+STU272,41,2.5,53,45,10,32,Needs Support
+STU273,49,1.3,52,44,12,31,Needs Support
+STU274,98,3.8,54,57,0,53,Moderate
+STU275,65,1.2,83,34,8,37,Needs Support
+STU276,69,2.5,34,54,7,28,Needs Support
+STU277,68,5.8,50,37,5,57,Moderate
+STU278,87,6.0,37,24,3,58,Moderate
+STU279,43,4.7,48,49,10,44,Needs Support
+STU280,45,2.2,77,74,9,51,Moderate
+STU281,56,4.3,28,81,8,43,Needs Support
+STU282,69,4.4,50,48,4,53,Moderate
+STU283,80,2.6,26,46,5,40,Needs Support
+STU284,69,4.0,97,83,4,66,Moderate
+STU285,66,0.6,80,75,8,41,Needs Support
+STU286,97,1.6,43,87,0,65,Moderate
+STU287,49,3.4,40,93,9,39,Needs Support
+STU288,74,1.4,32,86,4,34,Needs Support
+STU289,73,1.4,60,95,8,48,Needs Support
+STU290,68,5.1,82,53,7,63,Moderate
+STU291,89,5.9,69,51,2,58,Moderate
+STU292,56,3.6,91,46,10,60,Moderate
+STU293,98,5.1,51,39,0,60,Moderate
+STU294,60,5.9,46,80,8,47,Needs Support
+STU295,73,1.3,61,77,9,51,Moderate
+STU296,71,3.0,40,84,6,50,Moderate
+STU297,91,2.7,99,33,2,53,Moderate
+STU298,66,0.9,39,59,8,44,Needs Support
+STU299,57,4.7,61,37,10,52,Moderate
+STU300,41,2.9,64,92,8,45,Needs Support
+STU301,62,3.1,29,41,4,47,Needs Support
+STU302,90,1.3,60,31,2,46,Needs Support
+STU303,40,1.5,59,66,11,33,Needs Support
+STU304,94,5.5,44,91,4,59,Moderate
+STU305,73,0.7,34,94,5,41,Needs Support
+STU306,48,1.8,28,27,7,28,Needs Support
+STU307,58,2.1,25,46,6,30,Needs Support
+STU308,73,3.2,61,32,0,45,Needs Support
+STU309,59,3.7,31,44,8,38,Needs Support
+STU310,46,3.2,97,63,10,52,Moderate
+STU311,80,1.0,43,42,3,28,Needs Support
+STU312,81,1.8,74,25,6,36,Needs Support
+STU313,47,5.1,76,61,13,56,Moderate
+STU314,57,4.0,62,24,8,27,Needs Support
+STU315,54,4.1,92,38,5,58,Moderate
+STU316,80,4.2,33,20,5,40,Needs Support
+STU317,84,4.7,42,27,4,59,Moderate
+STU318,84,0.8,44,55,4,35,Needs Support
+STU319,97,2.5,35,88,3,54,Moderate
+STU320,86,3.5,47,82,0,53,Moderate
+STU321,59,2.4,48,28,12,34,Needs Support
+STU322,46,5.1,83,22,9,57,Moderate
+STU323,77,3.2,47,47,6,42,Needs Support
+STU324,95,4.7,91,72,0,80,High
+STU325,99,5.2,83,80,0,69,Moderate
+STU326,54,3.3,93,86,12,57,Moderate
+STU327,54,5.5,32,47,9,50,Moderate
+STU328,42,3.7,99,33,13,54,Moderate
+STU329,48,5.2,71,22,11,61,Moderate
+STU330,73,2.4,99,31,5,50,Moderate
+STU331,73,3.2,51,25,8,33,Needs Support
+STU332,62,3.4,97,89,7,55,Moderate
+STU333,58,1.1,69,41,5,43,Needs Support
+STU334,90,2.7,30,86,0,52,Moderate
+STU335,68,5.5,56,64,8,57,Moderate
+STU336,89,4.0,35,63,3,44,Needs Support
+STU337,98,1.5,96,56,0,66,Moderate
+STU338,59,2.4,48,86,7,34,Needs Support
+STU339,52,1.6,41,23,8,36,Needs Support
+STU340,98,0.6,67,27,0,65,Moderate
+STU341,78,5.6,57,54,2,63,Moderate
+STU342,57,3.0,32,51,7,40,Needs Support
+STU343,77,2.2,87,64,3,53,Moderate
+STU344,71,3.8,89,79,7,49,Needs Support
+STU345,95,0.5,81,67,3,48,Needs Support
+STU346,55,2.0,71,40,9,33,Needs Support
+STU347,100,4.4,55,46,0,51,Moderate
+STU348,97,4.0,66,80,1,76,High
+STU349,51,5.9,64,36,8,55,Moderate
+STU350,50,3.9,37,60,8,42,Needs Support
+STU351,72,3.1,31,63,4,40,Needs Support
+STU352,42,4.7,44,80,10,43,Needs Support
+STU353,58,5.5,59,77,6,64,Moderate
+STU354,66,4.5,37,57,7,46,Needs Support
+STU355,99,5.8,33,45,2,62,Moderate
+STU356,100,4.8,89,49,0,71,Moderate
+STU357,49,5.3,53,53,10,46,Needs Support
+STU358,94,1.1,69,37,1,39,Needs Support
+STU359,45,4.5,64,70,12,35,Needs Support
+STU360,85,2.9,80,36,3,54,Moderate
+STU361,91,3.5,81,72,0,66,Moderate
+STU362,94,4.1,47,80,0,51,Moderate
+STU363,53,5.8,89,97,9,66,Moderate
+STU364,94,5.9,53,29,3,61,Moderate
+STU365,47,2.1,88,81,6,36,Needs Support
+STU366,71,4.5,55,26,6,43,Needs Support
+STU367,68,4.6,33,47,9,46,Needs Support
+STU368,59,2.4,82,34,8,48,Needs Support
+STU369,41,1.2,27,33,13,11,Needs Support
+STU370,87,0.7,83,34,1,50,Moderate
+STU371,60,4.8,28,23,8,46,Needs Support
+STU372,80,3.2,40,86,1,56,Moderate
+STU373,65,5.9,70,24,2,59,Moderate
+STU374,62,3.1,96,52,9,52,Moderate
+STU375,94,5.9,56,76,0,65,Moderate
+STU376,45,2.8,34,100,10,40,Needs Support
+STU377,84,4.9,42,89,0,61,Moderate
+STU378,85,1.0,93,31,0,57,Moderate
+STU379,63,3.6,80,100,7,60,Moderate
+STU380,56,4.9,32,72,7,51,Moderate
+STU381,40,5.6,54,34,13,44,Needs Support
+STU382,97,5.0,45,56,2,65,Moderate
+STU383,97,0.7,38,94,1,51,Moderate
+STU384,54,2.5,89,51,10,42,Needs Support
+STU385,41,0.8,71,34,15,16,Needs Support
+STU386,47,1.1,38,90,8,42,Needs Support
+STU387,44,4.2,74,97,11,55,Moderate
+STU388,90,4.4,56,99,4,51,Moderate
+STU389,94,4.8,29,97,4,52,Moderate
+STU390,49,5.3,59,90,7,61,Moderate
+STU391,85,4.6,39,56,2,52,Moderate
+STU392,50,4.9,43,35,13,37,Needs Support
+STU393,62,0.8,91,69,9,55,Moderate
+STU394,76,1.8,78,37,5,41,Needs Support
+STU395,83,3.9,35,58,3,44,Needs Support
+STU396,93,5.2,89,73,1,76,High
+STU397,42,0.5,68,96,12,38,Needs Support
+STU398,51,3.3,91,43,9,54,Moderate
+STU399,57,4.2,81,40,9,58,Moderate
+STU400,58,0.7,50,79,9,35,Needs Support
+STU401,100,2.7,65,20,0,57,Moderate
+STU402,87,5.4,65,65,4,63,Moderate
+STU403,59,4.2,79,80,14,55,Moderate
+STU404,99,1.8,43,64,0,49,Needs Support
+STU405,70,5.2,50,51,7,54,Moderate
+STU406,70,2.4,43,87,4,50,Moderate
+STU407,66,5.2,47,50,8,54,Moderate
+STU408,48,2.1,37,77,10,33,Needs Support
+STU409,96,3.7,27,57,2,44,Needs Support
+STU410,40,2.7,96,22,14,43,Needs Support
+STU411,50,2.0,30,62,10,29,Needs Support
+STU412,54,5.4,92,24,11,58,Moderate
+STU413,57,1.5,25,95,4,49,Needs Support
+STU414,48,1.0,84,68,14,35,Needs Support
+STU415,41,2.4,49,50,13,34,Needs Support
+STU416,81,4.4,64,59,6,64,Moderate
+STU417,99,4.9,46,70,0,63,Moderate
+STU418,47,6.0,62,41,9,68,Moderate
+STU419,58,2.1,59,43,9,36,Needs Support
+STU420,70,2.7,65,53,6,50,Moderate
+STU421,96,1.3,54,40,1,40,Needs Support
+STU422,82,3.7,65,81,6,55,Moderate
+STU423,86,6.0,87,28,0,73,Moderate
+STU424,75,4.4,58,86,7,62,Moderate
+STU425,65,3.8,52,48,7,48,Needs Support
+STU426,52,2.7,35,65,9,43,Needs Support
+STU427,92,5.5,52,32,0,60,Moderate
+STU428,89,3.2,34,51,3,44,Needs Support
+STU429,41,1.2,38,81,7,48,Needs Support
+STU430,83,2.5,97,41,5,61,Moderate
+STU431,45,0.9,31,30,8,17,Needs Support
+STU432,85,1.6,61,62,3,43,Needs Support
+STU433,90,0.6,88,33,2,44,Needs Support
+STU434,47,3.0,97,45,13,55,Moderate
+STU435,66,4.0,36,56,6,42,Needs Support
+STU436,47,2.4,37,65,9,34,Needs Support
+STU437,74,2.8,53,71,4,48,Needs Support
+STU438,96,5.8,67,74,3,75,High
+STU439,44,4.6,97,88,12,54,Moderate
+STU440,64,3.5,40,25,6,32,Needs Support
+STU441,99,2.1,37,49,0,48,Needs Support
+STU442,58,5.4,44,20,5,51,Moderate
+STU443,48,1.8,91,20,11,42,Needs Support
+STU444,69,2.3,27,37,3,29,Needs Support
+STU445,71,5.5,53,68,7,61,Moderate
+STU446,80,3.4,34,92,4,44,Needs Support
+STU447,59,4.6,36,82,13,41,Needs Support
+STU448,98,3.7,94,72,0,65,Moderate
+STU449,71,4.1,25,83,6,54,Moderate
+STU450,57,2.1,49,33,12,37,Needs Support
+STU451,98,1.8,94,88,3,68,Moderate
+STU452,96,2.3,71,92,0,69,Moderate
+STU453,70,1.4,30,27,6,48,Needs Support
+STU454,41,5.3,60,58,12,36,Needs Support
+STU455,76,2.1,98,87,5,55,Moderate
+STU456,73,3.6,55,58,4,47,Needs Support
+STU457,49,4.9,65,88,10,48,Needs Support
+STU458,78,4.8,65,95,1,58,Moderate
+STU459,91,2.9,75,58,2,57,Moderate
+STU460,46,3.1,39,24,12,22,Needs Support
+STU461,84,6.0,88,47,3,74,Moderate
+STU462,48,4.2,100,37,7,57,Moderate
+STU463,85,5.0,35,58,5,56,Moderate
+STU464,65,5.5,87,67,8,68,Moderate
+STU465,40,4.8,87,57,11,58,Moderate
+STU466,98,1.5,81,35,0,52,Moderate
+STU467,50,3.6,53,44,7,56,Moderate
+STU468,76,1.1,60,75,3,47,Needs Support
+STU469,51,4.1,88,22,9,38,Needs Support
+STU470,96,5.8,36,37,3,50,Moderate
+STU471,85,3.3,87,92,2,55,Moderate
+STU472,89,2.9,94,28,3,60,Moderate
+STU473,66,0.7,76,53,6,41,Needs Support
+STU474,68,5.8,50,36,7,50,Moderate
+STU475,78,1.1,67,28,4,55,Moderate
+STU476,87,0.7,28,54,4,38,Needs Support
+STU477,91,1.9,95,62,1,66,Moderate
+STU478,41,0.9,51,34,9,20,Needs Support
+STU479,80,3.0,29,26,1,34,Needs Support
+STU480,46,3.3,85,30,10,46,Needs Support
+STU481,57,2.2,74,72,6,49,Needs Support
+STU482,90,0.8,72,89,3,40,Needs Support
+STU483,55,1.1,29,34,8,23,Needs Support
+STU484,88,2.6,82,45,7,55,Moderate
+STU485,68,0.8,73,47,3,41,Needs Support
+STU486,54,4.3,85,49,10,48,Needs Support
+STU487,60,1.6,87,39,6,42,Needs Support
+STU488,72,2.2,41,24,5,35,Needs Support
+STU489,86,2.7,41,62,3,47,Needs Support
+STU490,76,2.8,95,48,0,65,Moderate
+STU491,96,0.5,65,47,1,54,Moderate
+STU492,92,1.1,58,41,5,41,Needs Support
+STU493,85,5.2,46,95,2,59,Moderate
+STU494,76,0.5,73,69,5,48,Needs Support
+STU495,57,3.3,82,53,11,53,Moderate
+STU496,65,3.2,25,36,7,32,Needs Support
+STU497,47,2.3,67,84,9,49,Needs Support
+STU498,62,2.9,100,91,3,69,Moderate
+STU499,96,4.8,46,22,2,63,Moderate
+STU500,65,5.1,46,95,7,67,Moderate
